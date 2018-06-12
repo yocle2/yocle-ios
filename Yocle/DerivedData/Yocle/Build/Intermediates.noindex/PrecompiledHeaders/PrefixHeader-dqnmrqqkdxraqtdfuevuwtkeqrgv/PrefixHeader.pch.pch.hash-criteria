@@ -1,0 +1,202 @@
+-x
+objective-c
+-arch
+x86_64
+-std=gnu99
+-fobjc-arc
+-fmodules
+-gmodules
+-fmodules-cache-path=/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/ModuleCache.noindex
+-fbuild-session-file=/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/ModuleCache.noindex/Session.modulevalidation
+-fpascal-strings
+-O0
+-fno-common
+-DDEBUG=1
+-DCOCOAPODS=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk
+-fasm-blocks
+-mios-simulator-version-min=9.3
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-iquote
+-ivfsoverlay
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Yocle.build/all-product-headers.yaml
+-iquote
+-I/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/include
+-I/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Headers/Public
+-I/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Headers/Public/MOBFoundation
+-I/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Headers/Public/ShareSDK2
+-IPods
+-IPods/YYCache
+-IPods/XCDYouTubeKit
+-IPods/UIActivityIndicator-for-SDWebImage
+-IPods/JCNotificationBannerPresenter
+-IPods/TUSafariActivity
+-IPods/Target Support Files
+-IPods/ARChromeActivity
+-IPods/Local Podspecs
+-IPods/ShareSDK2
+-IPods/PureLayout
+-IPods/PKRevealController
+-IPods/OHHTTPStubs
+-IPods/Headers
+-IPods/MOBFoundation
+-IPods/REFrostedViewController
+-IPods/IQKeyboardManager
+-IPods/AFNetworking
+-IPods/TWMessageBarManager
+-IPods/KINWebBrowser
+-IPods/SDWebImage
+-IPods/YYCache/YYCache
+-IPods/XCDYouTubeKit/XCDYouTubeKit
+-IPods/JCNotificationBannerPresenter/Library
+-IPods/TUSafariActivity/Pod
+-IPods/Target Support Files/YYCache
+-IPods/Target Support Files/XCDYouTubeKit
+-IPods/Target Support Files/UIActivityIndicator-for-SDWebImage
+-IPods/Target Support Files/JCNotificationBannerPresenter
+-IPods/Target Support Files/TUSafariActivity
+-IPods/Target Support Files/ARChromeActivity
+-IPods/Target Support Files/PureLayout
+-IPods/Target Support Files/PKRevealController
+-IPods/Target Support Files/OHHTTPStubs
+-IPods/Target Support Files/REFrostedViewController
+-IPods/Target Support Files/IQKeyboardManager
+-IPods/Target Support Files/AFNetworking
+-IPods/Target Support Files/Pods-Yocle
+-IPods/Target Support Files/TWMessageBarManager
+-IPods/Target Support Files/KINWebBrowser
+-IPods/Target Support Files/SDWebImage
+-IPods/ARChromeActivity/ARChromeActivity
+-IPods/ShareSDK2/ShareSDK
+-IPods/PureLayout/PureLayout
+-IPods/PKRevealController/Source
+-IPods/OHHTTPStubs/OHHTTPStubs
+-IPods/Headers/Public
+-IPods/Headers/Private
+-IPods/REFrostedViewController/REFrostedViewController
+-IPods/IQKeyboardManager/IQKeyboardManager
+-IPods/AFNetworking/UIKit+AFNetworking
+-IPods/AFNetworking/AFNetworking
+-IPods/TWMessageBarManager/Classes
+-IPods/KINWebBrowser/KINWebBrowser
+-IPods/KINWebBrowser/Assets
+-IPods/SDWebImage/SDWebImage
+-IPods/TUSafariActivity/Pod/Classes
+-IPods/TUSafariActivity/Pod/Assets
+-IPods/ShareSDK2/ShareSDK/UI
+-IPods/ShareSDK2/ShareSDK/Extend
+-IPods/ShareSDK2/ShareSDK/Core
+-IPods/ShareSDK2/ShareSDK/Connection
+-IPods/PureLayout/PureLayout/PureLayout
+-IPods/PKRevealController/Source/PKRevealController
+-IPods/OHHTTPStubs/OHHTTPStubs/Sources
+-IPods/Headers/Public/ShareSDK2
+-IPods/Headers/Public/MOBFoundation
+-IPods/Headers/Private/YYCache
+-IPods/Headers/Private/XCDYouTubeKit
+-IPods/Headers/Private/UIActivityIndicator-for-SDWebImage
+-IPods/Headers/Private/JCNotificationBannerPresenter
+-IPods/Headers/Private/TUSafariActivity
+-IPods/Headers/Private/ARChromeActivity
+-IPods/Headers/Private/ShareSDK2
+-IPods/Headers/Private/PureLayout
+-IPods/Headers/Private/PKRevealController
+-IPods/Headers/Private/OHHTTPStubs
+-IPods/Headers/Private/REFrostedViewController
+-IPods/Headers/Private/IQKeyboardManager
+-IPods/Headers/Private/AFNetworking
+-IPods/Headers/Private/TWMessageBarManager
+-IPods/Headers/Private/KINWebBrowser
+-IPods/Headers/Private/SDWebImage
+-IPods/IQKeyboardManager/IQKeyboardManager/IQTextView
+-IPods/IQKeyboardManager/IQKeyboardManager/IQToolbar
+-IPods/IQKeyboardManager/IQKeyboardManager/Constants
+-IPods/IQKeyboardManager/IQKeyboardManager/Resources
+-IPods/IQKeyboardManager/IQKeyboardManager/Categories
+-IPods/TWMessageBarManager/Classes/Icons
+-IPods/ShareSDK2/ShareSDK/UI/ShareSDKFlatShareViewUI.bundle
+-IPods/ShareSDK2/ShareSDK/UI/ShareSDKiPadDefaultShareViewUI.bundle
+-IPods/ShareSDK2/ShareSDK/Extend/WeChatSDK
+-IPods/ShareSDK2/ShareSDK/Core/Resource.bundle
+-IPods/PKRevealController/Source/PKRevealController/Classes
+-IPods/PKRevealController/Source/PKRevealController/Modules
+-IPods/PKRevealController/Source/PKRevealController/Categories
+-IPods/OHHTTPStubs/OHHTTPStubs/Sources/JSON
+-IPods/OHHTTPStubs/OHHTTPStubs/Sources/OHPathHelpers
+-IPods/OHHTTPStubs/OHHTTPStubs/Sources/NSURLSession
+-IPods/Headers/Public/ShareSDK2/ShareSDKCoreService
+-IPods/Headers/Public/ShareSDK2/WeChatConnection
+-IPods/Headers/Public/ShareSDK2/ShareSDK
+-IPods/Headers/Public/ShareSDK2/AGCommon
+-IPods/Headers/Public/ShareSDK2/WhatsAppConnection
+-IPods/Headers/Public/MOBFoundation/MOBFoundationEx
+-IPods/Headers/Public/MOBFoundation/MOBFoundation
+-IPods/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle
+-IPods/ShareSDK2/ShareSDK/UI/ShareSDKiPadDefaultShareViewUI.bundle/PublishEx_iPad
+-IPods/ShareSDK2/ShareSDK/UI/ShareSDKiPadDefaultShareViewUI.bundle/RefreshHeader
+-IPods/ShareSDK2/ShareSDK/Core/Resource.bundle/Common_Landscape
+-IPods/ShareSDK2/ShareSDK/Core/Resource.bundle/ActionSheet
+-IPods/ShareSDK2/ShareSDK/Core/Resource.bundle/Icon_7
+-IPods/ShareSDK2/ShareSDK/Core/Resource.bundle/Common
+-IPods/ShareSDK2/ShareSDK/Core/Resource.bundle/AuthView
+-IPods/ShareSDK2/ShareSDK/Core/Resource.bundle/Icon
+-IPods/PKRevealController/Source/PKRevealController/Modules/PKLog
+-IPods/PKRevealController/Source/PKRevealController/Modules/PKLayerAnimator
+-IPods/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle/zh-Hans
+-IPods/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle/zh-Hant
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/MOBFoundation
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/ShareSDK2/ShareSDK
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/ShareSDK2/ShareSDK/Connection
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/ShareSDK2/ShareSDK/Core
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/ShareSDK2/ShareSDK/UI
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Yocle/Ref_Classes/Facebook_Frameworks
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/build/Release-iphoneos/AFNetworking
+-F/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/build/Debug-iphoneos
+-FPods/AFNetworking
+-FPods/AFNetworking/UIKit+AFNetworking
+-FPods/AFNetworking/AFNetworking
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/ARChromeActivity.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/IQKeyboardManager.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/JCNotificationBannerPresenter.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/KINWebBrowser.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/OHHTTPStubs.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PKRevealController.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PureLayout.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/REFrostedViewController.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/SDWebImage.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TUSafariActivity.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TWMessageBarManager.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/UIActivityIndicator_for_SDWebImage.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/XCDYouTubeKit.framework/Headers
+-iquote
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/YYCache.framework/Headers
+-isystem
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Headers/Public
+-isystem
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Headers/Public/MOBFoundation
+-isystem
+/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Headers/Public/ShareSDK2
+x86_64-apple-darwin17.5.0
+"4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.1)"
+SDK_PRODUCT_BUILD_VERSION=15E217
+15E217

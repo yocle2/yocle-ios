@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "加入"; ObjectID = "Bf5-vw-Q3v"; */
+"Bf5-vw-Q3v.normalTitle" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "登錄"; ObjectID = "UrS-dn-vhL"; */
+"UrS-dn-vhL.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Add image"; ObjectID = "kfC-T9-E2M"; */
+"kfC-T9-E2M.normalTitle" = "Add image";
+
+/* Class = "UILabel"; text = "顥森天下"; ObjectID = "kzv-Mq-NNv"; */
+"kzv-Mq-NNv.text" = "YOCLE";

@@ -1,0 +1,105 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ARChromeActivity (1.0.5)
+  - IQKeyboardManager (4.0.7)
+  - JCNotificationBannerPresenter (1.1.2)
+  - KINWebBrowser (1.3.2):
+    - ARChromeActivity (= 1.0.5)
+    - TUSafariActivity (= 1.0.4)
+  - MOBFoundation (2.2.3)
+  - OHHTTPStubs (5.2.2):
+    - OHHTTPStubs/Default (= 5.2.2)
+  - OHHTTPStubs/Core (5.2.2)
+  - OHHTTPStubs/Default (5.2.2):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (5.2.2):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (5.2.2):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (5.2.2)
+  - PKRevealController (2.0.6)
+  - PureLayout (3.0.2)
+  - REFrostedViewController (2.4.8)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - ShareSDK2 (2.12.5):
+    - ShareSDK2/Core (= 2.12.5)
+  - ShareSDK2/Connection/WeChat (2.12.5):
+    - ShareSDK2/Extend/WeChatSDK
+  - ShareSDK2/Connection/WhatsApp (2.12.5)
+  - ShareSDK2/Core (2.12.5)
+  - ShareSDK2/Extend/WeChatSDK (2.12.5)
+  - ShareSDK2/UI/Flat (2.12.5)
+  - ShareSDK2/UI/iPadDefault (2.12.5)
+  - TUSafariActivity (1.0.4)
+  - TWMessageBarManager (1.8.1)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+  - XCDYouTubeKit (2.4.3)
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - IQKeyboardManager
+  - JCNotificationBannerPresenter
+  - KINWebBrowser
+  - MOBFoundation
+  - OHHTTPStubs
+  - PKRevealController
+  - PureLayout
+  - REFrostedViewController (~> 2.4)
+  - SDWebImage (~> 3.7)
+  - ShareSDK2
+  - ShareSDK2/Connection/WeChat
+  - ShareSDK2/Connection/WhatsApp
+  - ShareSDK2/UI/Flat
+  - ShareSDK2/UI/iPadDefault
+  - TWMessageBarManager
+  - UIActivityIndicator-for-SDWebImage
+  - XCDYouTubeKit (~> 2.4.2)
+  - YYCache
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  ARChromeActivity: 821c7849b566f49583987468733a896fee35aa4d
+  IQKeyboardManager: 69002bb4fea60596b710e57d426abc00e5063630
+  JCNotificationBannerPresenter: f40150961943048ed3b1d2628d29dbf66a959e21
+  KINWebBrowser: 27aa857a2aa39063ed102cca781d130b679d205f
+  MOBFoundation: 2bc5cd7011a2db75cf2b3ceacb7f4227eec88f3e
+  OHHTTPStubs: 34d9d0994e64fcf8552dbfade5ce82ada913ee31
+  PKRevealController: ffb45a16f5a5032ad90a3d16e5cbb0d8e035bd58
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  ShareSDK2: c076a9ea57d9d87650130b8071f2bcf0f169cb94
+  TUSafariActivity: afc55a00965377939107ce4fdc7f951f62454546
+  TWMessageBarManager: fd84e7948ba7968a2b5d9454859135761214ec56
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+  XCDYouTubeKit: a4a1a60faa7bc97744a1184501e82ef10ca15897
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+COCOAPODS: 0.39.0

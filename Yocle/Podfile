@@ -1,0 +1,36 @@
+
+source "https://github.com/CocoaPods/Old-Specs"
+
+
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+
+use_frameworks!
+
+target 'Yocle' do
+
+pod "AFNetworking", "~> 2.0"
+pod 'IQKeyboardManager'
+pod 'SDWebImage', '~>3.7'
+pod 'UIActivityIndicator-for-SDWebImage'
+pod 'PKRevealController'
+pod 'REFrostedViewController', '~> 2.4'
+pod 'PureLayout'
+pod 'KINWebBrowser'
+pod "XCDYouTubeKit", "~> 2.4.2"
+
+pod 'MOBFoundation'
+pod 'ShareSDK2'
+pod 'ShareSDK2/UI/Flat'
+pod 'ShareSDK2/UI/iPadDefault'
+
+pod 'ShareSDK2/Connection/WeChat'
+pod 'ShareSDK2/Connection/WhatsApp'
+
+pod 'JCNotificationBannerPresenter'
+pod 'TWMessageBarManager'
+pod 'YYCache'
+pod 'OHHTTPStubs'
+
+end

@@ -1,0 +1,989 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperationManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLConnectionOperation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/ARChromeActivity.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ARChromeActivity-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/ARChromeActivity.framework/Headers/ARChromeActivity-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ARChromeActivity-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/ARChromeActivity/ARChromeActivity-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ARChromeActivity.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/ARChromeActivity/ARChromeActivity/ARChromeActivity.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/ARChromeActivity.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ARChromeActivity.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/IQKeyboardManager.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQBarButtonItem.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQBarButtonItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManager-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/IQKeyboardManager.framework/Headers/IQKeyboardManager-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManager-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/IQKeyboardManager/IQKeyboardManager-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQKeyboardManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerConstants.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Constants/IQKeyboardManagerConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerConstantsInternal.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Constants/IQKeyboardManagerConstantsInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardReturnKeyHandler.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQKeyboardReturnKeyHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQNSArray+Sort.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQNSArray+Sort.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQPreviousNextView.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQPreviousNextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQTextView.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQTextView/IQTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQTitleBarButtonItem.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQToolbar.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIScrollView+Additions.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIScrollView+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUITextFieldView+Additions.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUITextFieldView+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIView+Hierarchy.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIView+Hierarchy.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIView+IQKeyboardToolbar.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/IQToolbar/IQUIView+IQKeyboardToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIViewController+Additions.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIViewController+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQUIWindow+Hierarchy.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/IQKeyboardManager/IQKeyboardManager/Categories/IQUIWindow+Hierarchy.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/IQKeyboardManager.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/IQKeyboardManager.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/JCNotificationBannerPresenter.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JCNotificationBanner.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBanner.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerPresenter-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/JCNotificationBannerPresenter.framework/Headers/JCNotificationBannerPresenter-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerPresenter-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/JCNotificationBannerPresenter/JCNotificationBannerPresenter-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerPresenter.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerPresenter.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerPresenterIOS7Style.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerPresenterIOS7Style.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerPresenterIOSStyle.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerPresenterIOSStyle.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerPresenterSmokeStyle.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerPresenterSmokeStyle.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerPresenter_Private.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerPresenter_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerView.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerViewIOS7Style.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerViewIOS7Style.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerViewIOSStyle.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerViewIOSStyle.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationBannerWindow.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationBannerWindow.h"
+        },
+        {
+          'type': 'file',
+          'name': "JCNotificationCenter.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/JCNotificationBannerPresenter/Library/JCNotificationCenter.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/JCNotificationBannerPresenter.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/JCNotificationBannerPresenter.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/KINWebBrowser.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "KINWebBrowser-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/KINWebBrowser.framework/Headers/KINWebBrowser-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "KINWebBrowser-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/KINWebBrowser/KINWebBrowser-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "KINWebBrowserViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/KINWebBrowser.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/KINWebBrowser.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/OHHTTPStubs.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Compatibility.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/OHHTTPStubs/OHHTTPStubs/Sources/Compatibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLRequest+HTTPBodyTesting.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/OHHTTPStubs/OHHTTPStubs/Sources/NSURLSession/NSURLRequest+HTTPBodyTesting.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubs-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/OHHTTPStubs.framework/Headers/OHHTTPStubs-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubs-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/OHHTTPStubs/OHHTTPStubs-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubs.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHHTTPStubs.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubsResponse+JSON.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/OHHTTPStubs/OHHTTPStubs/Sources/JSON/OHHTTPStubsResponse+JSON.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubsResponse.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHHTTPStubsResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHPathHelpers.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHPathHelpers/OHPathHelpers.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/OHHTTPStubs.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/OHHTTPStubs.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/OHHTTPStubs.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "OHHTTPStubsMethodSwizzling.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/OHHTTPStubs/OHHTTPStubs/Sources/NSURLSession/OHHTTPStubsMethodSwizzling.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PKRevealController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CAAnimation+PKIdentifier.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Categories/CAAnimation+PKIdentifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "CALayer+PKConvenienceAnimations.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Categories/CALayer+PKConvenienceAnimations.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+PKBlocks.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Categories/NSObject+PKBlocks.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKAnimating.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Modules/PKLayerAnimator/PKAnimating.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKAnimation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Modules/PKLayerAnimator/PKAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKLayerAnimator.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Modules/PKLayerAnimator/PKLayerAnimator.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKLog.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Modules/PKLog/PKLog.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKRevealController-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PKRevealController.framework/Headers/PKRevealController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKRevealController-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/PKRevealController/PKRevealController-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKRevealController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/PKRevealController.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKRevealControllerView.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Classes/PKRevealControllerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKSequentialAnimation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Modules/PKLayerAnimator/PKSequentialAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+PKRevealController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PKRevealController/Source/PKRevealController/Categories/UIViewController+PKRevealController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PKRevealController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PKRevealController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/Pods_Yocle.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Yocle-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/Pods-Yocle/Pods-Yocle-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Yocle-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/Pods_Yocle.framework/Headers/Pods_Yocle-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/Pods_Yocle.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-Yocle.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PureLayout.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ALView+PureLayout.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PureLayout/PureLayout/PureLayout/ALView+PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+PureLayout.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PureLayout/PureLayout/PureLayout/NSArray+PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+PureLayout.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PureLayout/PureLayout/PureLayout/NSLayoutConstraint+PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayout+Internal.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PureLayout/PureLayout/PureLayout/PureLayout+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayout-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PureLayout.framework/Headers/PureLayout-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayout-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/PureLayout/PureLayout-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayout.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PureLayout/PureLayout/PureLayout/PureLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "PureLayoutDefines.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/PureLayout/PureLayout/PureLayout/PureLayoutDefines.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/PureLayout.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/PureLayout.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/REFrostedViewController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RECommonFunctions.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/REFrostedViewController/REFrostedViewController/RECommonFunctions.h"
+        },
+        {
+          'type': 'file',
+          'name': "REFrostedContainerViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/REFrostedViewController/REFrostedViewController/REFrostedContainerViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "REFrostedViewController-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/REFrostedViewController.framework/Headers/REFrostedViewController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "REFrostedViewController-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/REFrostedViewController/REFrostedViewController-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "REFrostedViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/REFrostedViewController/REFrostedViewController/REFrostedViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+REFrostedViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/REFrostedViewController/REFrostedViewController/UIImage+REFrostedViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+REFrostedViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/REFrostedViewController/REFrostedViewController/UIView+REFrostedViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+REFrostedViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/REFrostedViewController/REFrostedViewController/UIViewController+REFrostedViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/REFrostedViewController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/REFrostedViewController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TUSafariActivity.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TUSafariActivity-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TUSafariActivity.framework/Headers/TUSafariActivity-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TUSafariActivity-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/TUSafariActivity/TUSafariActivity-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "TUSafariActivity.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/TUSafariActivity/Pod/Classes/TUSafariActivity.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TUSafariActivity.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/TUSafariActivity.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TWMessageBarManager.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TWMessageBarManager-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TWMessageBarManager.framework/Headers/TWMessageBarManager-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TWMessageBarManager-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/TWMessageBarManager/TWMessageBarManager-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "TWMessageBarManager.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/TWMessageBarManager/Classes/TWMessageBarManager.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/TWMessageBarManager.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/TWMessageBarManager.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/UIActivityIndicator_for_SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UIActivityIndicator-for-SDWebImage-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/UIActivityIndicator-for-SDWebImage/UIActivityIndicator-for-SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicator_for_SDWebImage-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/UIActivityIndicator_for_SDWebImage.framework/Headers/UIActivityIndicator_for_SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+UIActivityIndicatorForSDWebImage.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/UIActivityIndicator-for-SDWebImage/UIImageView+UIActivityIndicatorForSDWebImage.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/UIActivityIndicator_for_SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/UIActivityIndicator-for-SDWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/XCDYouTubeKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "XCDYouTubeClient.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/XCDYouTubeKit/XCDYouTubeKit/XCDYouTubeClient.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeError.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/XCDYouTubeKit/XCDYouTubeKit/XCDYouTubeError.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeKit-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/XCDYouTubeKit.framework/Headers/XCDYouTubeKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeKit-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/XCDYouTubeKit/XCDYouTubeKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeKit.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/XCDYouTubeKit/XCDYouTubeKit/XCDYouTubeKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeOperation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/XCDYouTubeKit/XCDYouTubeKit/XCDYouTubeOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeVideo.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/XCDYouTubeKit/XCDYouTubeKit/XCDYouTubeVideo.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeVideoOperation.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/XCDYouTubeKit/XCDYouTubeKit/XCDYouTubeVideoOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCDYouTubeVideoPlayerViewController.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/XCDYouTubeKit/XCDYouTubeKit/XCDYouTubeVideoPlayerViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/XCDYouTubeKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/XCDYouTubeKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/YYCache.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "YYCache-Swift.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/YYCache.framework/Headers/YYCache-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCache-umbrella.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/Target Support Files/YYCache/YYCache-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCache.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/YYCache/YYCache/YYCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYDiskCache.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/YYCache/YYCache/YYDiskCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYKVStorage.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/YYCache/YYCache/YYKVStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYMemoryCache.h",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/Pods/YYCache/YYCache/YYMemoryCache.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Products/Debug-iphonesimulator/YYCache.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/alanpoon/gdrive/_WEB/yocle/_yocle-ios/Yocle/DerivedData/Yocle/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/YYCache.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

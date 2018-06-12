@@ -1,0 +1,82 @@
+"home" = "YOCLE";
+"edit profile" = "Edit profile";
+"preview profile" = "Preview profile";
+"print profile" = "Print profile";
+"network" = "Network";
+"create activity" = "Create activity";
+"search activity" = "Search activity";
+"schedule" = "Schedule";
+"post a project" = "Post a project";
+"gs league" = "GS League Table";
+"sign up" = "Sign up";
+"member zone" = "YOCLE";
+"sign up for member" = "Your Outside Classroom Learning Experience";
+"member" = "YOCLE member";
+"logout" = "Logout";
+"logoutsuccess" = "Logout successfully";
+"logoutuseagain" = "See you soon in YOCLE again";
+"ok" = "OK";
+"alert" = "Alert";
+"cancel" = "Cancel";
+"confirm" = "Confirm";
+"textinput" = "Text input";
+"profile" = "Profile";
+"activity" = "Activity";
+"schedule" = "Schedule";
+"messenger" = "Messenger";
+"whatsup" = "Whats up";
+"peers" = "Peers";
+
+
+
+"顥森天下" = "顥森天下";
+"最新消息" = "最新消息";
+"會員專區" = "會員專區";
+"立即報名" = "立即報名";
+"免費登記，盡享顥森天下服務" = "免費登記，盡享顥森天下服務";
+"每週預測" = "每週預測";
+"最新走勢" = "最新走勢";
+"過往預測" = "過往預測";
+"投資課程" = "投資課程";
+"學生感言" = "學生感言";
+"實用連結及教學" = "實用連結及教學";
+"關於我們" = "關於我們";
+"聯絡我們" = "聯絡我們";
+"付費會員" = "付費會員";
+"登錄" = "登錄";
+"加入" = "b加入";
+"最新戰績" = "最新戰績";
+"登出" = "登出";
+"登出成功" = "登出成功";
+"你已成功登出。 感谢梗用我们的服务" = "你已成功登出。 感谢梗用我们的服务";
+
+"Share" = "分享";
+"Cancel" = "取消";
+
+"Alert" = "提示";
+"Share Content will be copied to clipboard when you click share button" = "當你按分享按鈕時, 系統會複製分享文字到剪貼板, 以便你在社交平台貼上內容";
+"Confirm Alert" = "確認";
+"Are you sure to share?" = "確認分享到社交平台嗎?";
+"清先登錄, and then start share again" = "請先登錄, 然後再次分享";
+"OK" = "OK";
+"WhatsApp not installed." = "沒有安裝 WhatsApp 程式";
+"Your device has no WhatsApp installed." = "沒有安裝 WhatsApp 程式";
+
+"Push Notification" = "通知";
+"You got notification kind" = "你有一個最新走勢通知";
+"You got google form kind" = "你有一個投資分享會通知";
+"You got weekly report kind" = "你有一個每週預測通知";
+"Success" = "成功";
+"Failed" = "失敗";
+"Error Description：%@" = "錯誤描述：%@";
+"清先登錄" = "請先登錄";
+"清先登錄, and then start share again" = "請先登錄, 然後再次分享";
+
+"Login" = "登錄";
+"註册失敗" = "註册失敗";
+"加入成功" = "加入成功";
+"歡迎 %@, 你已成功註冊成為會員!";
+"TermsTitle" = "顥森天下 v1.0";
+"登錄成功" = "登錄成功";
+"歡迎 %@, 你已經登錄成功!" = "歡迎 %@, 你已經登錄成功!";
+"Terms" = "Terms of use\n\n";
