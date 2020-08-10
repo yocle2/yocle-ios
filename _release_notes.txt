@@ -1,0 +1,26 @@
+20200725 1.7.0
+  - correct system URL to production
+  - enabled playsinline=1 in videoplayback
+
+20200725 1.6.0
+  - enabled playsinline=1 in videoplayback
+    https://stackoverflow.com/questions/40960747/disable-auto-fullscreen-of-youtube-embeds-on-iphone
+  - handled error place holder no code in empty function errors
+
+
+20190318 1.5.0
+  - disabled swipe right menu (Q072)
+    > to avoid panleft events affected in javascript
+    > LeftHeaderViewer
+    > LeftViewController
+    > REFrostedViewController
+      - https://github.com/romaonthego/REFrostedViewController/
+       > remarked the followings twice
+        [self.frostedViewController panGestureRecognized:sender];
+
+20190306 1.4.02
+  - fixed false error by (error != nil)
+
+20190215 1.2.08
+  - fixed for privacy string
+  - testing notifications

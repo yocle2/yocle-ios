@@ -1,0 +1,106 @@
+
+#ifndef PGS_PrefixHeader_pch
+#define PGS_PrefixHeader_pch
+
+#import "AppDelegate.h"
+#import "GlobalDefine.h"
+//#import <sqlite3.h>
+#import "ProgressHUD.h"
+#import "AFNetworking.h"
+#import "ApiClient.h"
+#import "NSData+Conversion.h"
+//#import "UIImageView+UIActivityIndicatorForSDWebImage.h"
+//#import "IQKeyboardManager.h"
+//#import "PKRevealController.h"
+#import "NSUserDefaults+DemoSettings.h"
+#import "REFrostedViewController.h"
+#import <PureLayout/PureLayout.h>
+#import "CAPSPageMenu.h"
+//#import <XCDYouTubeKit/XCDYouTubeKit.h>
+//#import "KINWebBrowserViewController.h"
+//#import <QuickLook/QuickLook.h>
+#import <JavaScriptCore/JavaScriptCore.h>
+#import "AES.h"
+//#import <Social/Social.h>
+#import <ShareSDK/ShareSDK.h>
+//#import <FBSDKCoreKit/FBSDKCoreKit.h>
+//#import <FBSDKShareKit/FBSDKShareKit.h>
+//#import "JCNotificationCenter.h"
+#import "TWMessageBarManager.h"
+
+#define IS_OS_8_OR_LATER                        ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
+#define IS_OS_9_OR_LATER                        ([[[UIDevice currentDevice] systemVersion] floatValue] >= 9.0)
+
+#define IS_IPHONE_5                             ( fabs( ( double )[ [ UIScreen mainScreen ] bounds ].size.height - ( double )568 ) < DBL_EPSILON )
+
+#define kAppDelegate                            ((AppDelegate *)[UIApplication sharedApplication].delegate)
+#define TopWindow                               (UIWindow *)[[[UIApplication sharedApplication] delegate] window]
+#define kViewWidth                              [[UIScreen mainScreen] bounds].size.width
+#define kViewHeight                             [[UIScreen mainScreen] bounds].size.height
+
+#define kOFFSET_FOR_KEYBOARD                    110.0f
+
+// font
+#define SEGOESCNORMALFONTNAME                   @"segoesc"
+#define SEGOESCBOLDFONTNAME                     @"segoescb"
+#define GULIMNORMALFONTNAME                     @"Gulim"
+
+// Font name
+#define HelveticalNeuelLtPro_LtCn               @"HelveticaNeueLTPro-LtCn"
+#define HelveticalNeuelLtPro_LtCnO              @"HelveticaNeueLTPro-LtCnO"
+#define HelveticalNeuelLtPro_MdCn               @"HelveticaNeueLTPro-MdCn"
+#define HelveticalNeuelLtPro_MdCnO              @"HelveticaNeueLTPro-MdCnO"
+
+// color
+#define AIDACOLOR1                              [GlobalDefine colorWithHexString:@"303f9f"]
+#define AIDACOLOR2                              [GlobalDefine colorWithHexString:@"f3e2a9"]
+#define AIDACOLOR3                              [GlobalDefine colorWithHexString:@"dba901"]
+#define AIDACOLOR4                              [GlobalDefine colorWithHexString:@"2e9afe"]
+#define AIDACOLOR5                              [GlobalDefine colorWithHexString:@"dfb31f"]
+#define AIDACOLOR6                              [GlobalDefine colorWithHexString:@"303f9f"]
+
+//#define G_serverurl                             "https://yocle.net"
+#define G_serverurl                             "https://yocle.net/dev"
+//#define G_serverurl                             "https://yocle.net/dev/recordrtc_test"
+//#define G_serverurl                             "https://www.google.com"
+//#define G_serverurl                             "https://clmac.crabdance.com/yocle/dev/"
+//#define G_serverurl                             "https://clmac.crabdance.com/yocle/dev/recordrtc_test3"
+
+#define newwin                                  @"newwin://"
+#define backwin                                  @"backwin://"
+#define backwinclose                                  @"backwinclose://"
+#define cmenu                                  @"cmenu://"
+#define changeprofile                          @"changeprofile://"
+#define postdata                                @"postdata://"
+#define showhideactionbar                        @"showhideactionbar://"
+#define pullrefresh                              @"pullrefresh://"
+#define recordaudio                              @"recordaudio://"
+
+
+// notification
+#define NotificationWeekReportClicked           @"NotificationWeekReportClicked"
+#define NotificationNotificationClicked         @"NotificationNotificationClicked"
+#define NotificationLatestNewsClicked           @"NotificationLatestNewsClicked"
+#define NotificationRegisterClicked             @"NotificationRegisterClicked"
+#define NotificationOtherViewClicked            @"NotificationOtherViewClicked"
+#define NotificationPerformLogin                @"NotificationPerformLogin"
+#define NotificationLogined                     @"NotificationLogined"
+#define NotificationLogouted                    @"NotificationLogouted"
+#define NotificationPerformLogout               @"NotificationPerformLogout"
+#define NotificationPlayYoutube                 @"NotificationPlayYoutube"
+#define NotificationOpenNewUrl                  @"NotificationOpenNewUrl"
+#define NotificationReceiveRemote               @"NotificationReceiveRemote"
+#define NotificationShare                       @"NotificationShare"
+#define NotificationUpdateLeftMenu              @"NotificationUpdateLeftMenu"
+#define NotificationUpdateDeviceTokenToJs       @"NotificationUpdateDeviceTokenToJs"
+
+//#define NotificationShowLevel2                  @"NotificationShowLevel2"
+//#define NotificationShowLevel3                  @"NotificationShowLevel3"
+
+
+#define MediaKind                               @[@"-", @"fb", @"wa", @"we"]
+
+#define MainTimerInterval                       60.0f
+#define OtherTimerInterval                      1800.0f
+
+#endif

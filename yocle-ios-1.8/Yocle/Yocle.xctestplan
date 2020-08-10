@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "7A9A591C-E8FE-4DB6-B4F9-E68D4F8A3513",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Yocle.xcodeproj",
+      "identifier" : "CDFEF0791C31082E00005565",
+      "name" : "Yocle"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}

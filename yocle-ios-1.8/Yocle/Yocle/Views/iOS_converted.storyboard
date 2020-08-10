@@ -1,0 +1,45 @@
+
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"></adaptation>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"></deployment>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"></plugIn>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"></capability>
+    </dependencies>
+    <scenes>
+        <scene sceneID="8je-T2-nA7">
+            <objects>
+                <viewController id="qG6-go-JKz" sceneMemberID="viewController" useStoryboardIdentifierAsRestorationIdentifier="YES" customClass="LatestNewsViewController" storyboardIdentifier="LatestNewsViewController" userLabel="LatestNewsViewController">
+                    <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="h5m-qA-foc" key="view">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"></rect>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"></autoresizingMask>
+                        <subviews>
+                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Trs-rM-Hoy">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"></rect>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"></color>
+                                <connections>
+                                    <outlet property="delegate" destination="qG6-go-JKz" id="qqn-Jr-Spr"></outlet>
+                                </connections>
+                            </webView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"></color>
+                        <constraints>
+                            <constraint firstItem="Trs-rM-Hoy" firstAttribute="leading" secondItem="h5m-qA-foc" secondAttribute="leading" id="qy5-us-5aV"></constraint>
+                            <constraint firstAttribute="trailing" secondItem="Trs-rM-Hoy" secondAttribute="trailing" id="tl3-HY-noN"></constraint>
+                            <constraint firstItem="Trs-rM-Hoy" firstAttribute="top" secondItem="h5m-qA-foc" secondAttribute="top" id="lJw-mu-FJd"></constraint>
+                            <constraint firstAttribute="bottom" secondItem="Trs-rM-Hoy" secondAttribute="bottom" id="r8b-qn-sHX"></constraint>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="webView" destination="Trs-rM-Hoy" id="OVx-3O-3eT"></outlet>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="UWv-Nr-s5g" userLabel="First Responder" sceneMemberID="firstResponder"></placeholder>
+            </objects>
+            <point key="canvasLocation" x="0" y="0"></point>
+        </scene>
+    </scenes>
+    <resources></resources>
+</document>
